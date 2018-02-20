@@ -4,7 +4,7 @@
             <p><span>4</span><span>0</span><span>4</span></p>
             <p>{{mess}}</p>
             <div class="page-but">
-                <el-button :plain="true" type="info"  class="page-404"  @click="fl">返回首页</el-button>
+                <button class="page-404"  @click="fl">返回首页</button>
             </div>
         </div>
     </div>
